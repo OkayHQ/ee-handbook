@@ -2,6 +2,7 @@
 .output
 .nuxt
 sw.js
+dist
 # Node dependencies
 node_modules
 # System files
