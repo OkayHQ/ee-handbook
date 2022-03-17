@@ -2,8 +2,8 @@
   "title": "Engineering Effectiveness Handbook",
   "url": "https://www.okayhq.com/handbook",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "logo-light.svg",
+    "dark": "logo-dark.svg"
   },
   "github": "OkayHQ/ee-handbook",
   "twitter": "@OkayHQ"
