@@ -5,6 +5,8 @@ position: 22
 category: Managing time
 ---
 
+Meeting load, Interviews and Page Load are three of the most common disruptors to flow for engineering teams.  They are required activities for well-functioning teams but require careful management to stay efficient.  Left unchecked these activities tend to take up increasing amounts of time and become more costly for the productivity of your team.
+
 ## Best pratices to reduce fragmentation and meeting load
 
 - **Align 1/1s to the team's schedule instead of the manager's:** As a manager, there's always the temptation to batch your 1/1s into chunks so that they work well for your schedule. 1/1s can be a big source of calendar fragmentation on a given day if they’re not carefully scheduled.  They also typically happen every week so getting these right can have recurring benefits.
@@ -17,7 +19,7 @@ category: Managing time
 
 - **Assess the signal-noise ratio of every alert your team receives.** Cut the noisy alerts aggressively. For those teams that are in central parts of the stack (e.g. database), you might need to create much larger rotations and train more people. The volume of pages might be naturally higher due to the sheer scale of these services.
 
-- **Prioritize solving the root cause behind the instability of your services.**
+- **Prioritize solving the root cause behind the instability of your services.**.  Quantifying the page load of the team both in terms of work interruptions and work-life balance will make it easier to prioritize root cause investments.  By slowing down to fix root causes your team will move faster and more sustainably in the long term.
 
 - **Establish goals around a maximum number of pages / week for team members.** Make yourself accountable to meet these goals, not the engineers.
 
@@ -32,7 +34,7 @@ category: Managing time
 - Include **interview participation** in performance reviews.
 
 
-## Overall Framework
+## Identifying other sources of context switching
 
 High meeting load, interviews and paging are some of the most common causes of context switching that affect software teams today.  However, there are many other types of interruptions out there, so the ability to determine the highest leverage problem affecting your team is important.  Here’s a framework you can use to discover what to focus on:
 

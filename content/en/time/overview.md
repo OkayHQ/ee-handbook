@@ -11,11 +11,11 @@ Time is arguably the **most important input to manage to create high performing 
 - **Scope** is the functionality of the completed work. 
 - **People** are a combination of the number of people and the skills they bring to the table.  
 
-> What teams do with their time and how effective that use is a primary main factor in determining its output.   Even if you hire the best engineers, if they spend all their time on the wrong things, or they’re constantly interrupted while trying to do the right things, the team won’t succeed.
+What teams do with their time is the primary factor in determining its output.   Even if you hire the best engineers, if they spend all their time on the wrong things, or they’re constantly interrupted while trying to do the right things, the team won’t succeed.
 
 Because software engineering is a creative task, **total time spent is not enough to ensure efficiency or success**.  Fragmented chunks of 5 minutes may mean that the project never gets done.  For most engineers, that’s not even enough time to make meaningful progress on a simple bug fix.  
 
-Software projects typically require engineers to upload context into working memory, do an amount of work, and save context so it’s available for next time.  Uploading context can mean (reading the task ticket, understanding the state of the code, running queries, looking through documentation, running a debugger, talking to other engineers, etc).
+Software projects typically require engineers to have several concepts and context in their memory to make forward progress. A task might require you to read a ticket with requirements, look at log output, read related code before you're able to start making changes.  Any interruption causes an expensive context switch that forces you to start this whole process over.
 
 Flow state or being *in the zone* means having no worries about imminent interruptions - you’re fully in the moment and at your most productive.   Fragmentation and interruptions kill flow state because context switching is so expensive for engineers.  This state is typically where the most work gets done and it’s when the hardest problems can get solved.  
 
@@ -27,4 +27,4 @@ Fragmentation is when you have a poorly organized calendar or work schedule wher
 
  We’ve found that **the best teams are able to achieve 70% or higher maker time** during a work week for their engineers.
 
-As a manager, it can be hard to remember what it was like to need primarily Maker Time to succeed because a manager’s role can be significantly more interrupt-driven.  Paul Graham summarizes the differences between [manager and maker schedules](http://www.paulgraham.com/makersschedule.html).
+As a manager, it can be hard to remember what it was like to need primarily Maker Time to succeed because a manager’s role can be significantly more interrupt-driven.  Paul Graham summarizes the differences between [manager and maker schedules](http://www.paulgraham.com/makersschedule.html). To be most effective engineers require large blocks of uninterrupted time and for them any interruptions are disproportionately costly.
