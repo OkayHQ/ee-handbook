@@ -13,7 +13,7 @@ After talking to hundreds of engineering leaders, we know 2 things:
 This handbook intends to fill that gap. Our goal is to build the **first practical and actionable guide to engineering effectiveness**.
 
 We decided to give this work to the community under CC-BY-SA and we welcome contributions, which you can provide in 2 main ways:
-* adding amazing pointers to our curated list of engineering effectiveness resources
+* adding amazing pointers to our [curated list of engineering effectiveness resources](resources)
 * contributing a chapter or an entire section to the handbook
 
 We hope you'll enjoy reading this handbook!
