@@ -12,7 +12,7 @@ This chapter will therefore guide you through how to manage and measure what we 
 
 There is a wealth of information online about the [Software Development Lifecycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle). Consequently, there is some variation in terms of the various steps of the lifecycle. We do not take an opinionated approach on this; for pragmatic reasons, we will use these high-level steps in the rest of of this chapter:
 
-<img src="sflc.svg" class="mx-auto" style="min-height: 2rem;"/>
+<img src="img/sflc.svg" class="mx-auto" style="min-height: 2rem;"/>
 
 <Insert analogy with factory>
 
