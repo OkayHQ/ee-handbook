@@ -6,5 +6,6 @@
     "dark": "img/logo-dark.svg"
   },
   "github": "OkayHQ/ee-handbook",
-  "twitter": "@OkayHQ"
+  "twitter": "@OkayHQ",
+  "defaultDir": ""
 }
