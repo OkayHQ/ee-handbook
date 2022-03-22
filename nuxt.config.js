@@ -5,6 +5,9 @@ export default theme({
   router: {
     base: '/handbook/'
   },
+  build: {
+    transpile: [/^vue-github-button/]
+  },
   googleAnalytics: {
     id: process.env.GOOGLE_ANALYTICS_ID
   }
