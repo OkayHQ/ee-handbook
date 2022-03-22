@@ -81,6 +81,15 @@
   </nav>
 </template>
 
+<style>
+.dark-mode .prose a, .dark-mode .text-primary-500, .dark-mode .hover\:text-primary-500:hover {
+  color: #63b3ed;
+}
+.dark-mode .bg-primary-100 {
+  background-color: #2d3748;
+}
+</style>
+
 <script>
 import { mapGetters } from 'vuex'
 import GithubButton from 'vue-github-button'
