@@ -28,7 +28,9 @@ This difficulty has led some engineering leaders to give up on trying to underst
 
 The unfortunate consequence is that such organizations unfairly reward story-telling: missing deadlines or moving more slowly than the competition can always be explained away. As a result, the organization becomes more political and the best employees leave for greener pastures.
 
-**This handbook instead focuses on the other side of the productivity equation: inputs.** Taking into account the realities of software development, we define inputs as anything that affects the workflows of engineers: how much available time do individuals have to think and code? How good is the suite of developer tools? How long does it take to get code reviewed by a peer? For more examples, take a closer look at the myriad of developer tools that appeared in the last 10 years: almost all of them are addressing the problem of making inputs faster, cheaper, etc.
+**This handbook instead focuses on the other side of the productivity equation: inputs.** Taking into account the realities of software development, we define inputs as anything that affects the workflows of engineers: how much available time do individuals have to think and code? How good is the suite of developer tools? How long does it take to get code reviewed by a peer? 
+
+For more examples, take a closer look at the myriad of developer tools that appeared in the last 10 years: almost all of them are addressing the problem of making inputs faster, cheaper, etc.
 
 In the rest of this handbook, we will thus define engineering effectiveness as:
 > the removal of bottlenecks and inefficiencies in the life of an engineering team. 

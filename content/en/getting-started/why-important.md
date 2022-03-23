@@ -23,7 +23,9 @@ When an engineering team is not productive, outside actors notice it through the
 
 ## From the point of view of developers
 
-As we wrote above, developer experience - as in the many workflows and social interactions needed to create working code - is the core input of an engineering team. Working on an unproductive team is painful: pushing new features takes forever, the tooling is inadequate, dubious meetings and on-call pages turn into a never-ending stream of interruptions. The [learned helplessness](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams) that permeates the daily experience leads to disengagement, which leads to leaving the company. High performers are disproportionately affected by this type of issues and will self-select out of unproductive organizations. 
+As we wrote above, developer experience - as in the many workflows and social interactions needed to create working code - is the core input of an engineering team. Working on an unproductive team is painful: pushing new features takes forever, the tooling is inadequate, dubious meetings and on-call pages turn into a never-ending stream of interruptions. 
+
+The [learned helplessness](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams) that permeates the daily experience leads to disengagement, which leads to leaving the company. High performers are disproportionately affected by this type of issues and will self-select out of unproductive organizations. 
 
 In our experience, a **productive team is almost always an engaged team, and vice-versa** - the key, again, is to focus on building an efficient engine free of bottlenecks and annoyances.
 

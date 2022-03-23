@@ -88,6 +88,30 @@
 .dark-mode .bg-primary-100 {
   background-color: #2d3748;
 }
+.nuxt-content ul {
+  background-color: #ebf4ff;
+  padding: 1em;
+}
+.dark-mode .nuxt-content ul {
+  background-color: #2d3748;
+  padding: 1em;
+}
+.dark-mode table {
+  background-color: #fff;
+  color: #000000;
+  border-radius: 7px;
+}
+.dark-mode th {
+  color: #000000;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.prose tbody td:first-child, .prose thead th:first-child {
+  padding-left: 1em;
+}
+.prose tbody td:last-child, .prose thead th:last-child {
+  padding-right: 1em;
+}
 </style>
 
 <script>
