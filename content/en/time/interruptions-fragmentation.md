@@ -5,7 +5,13 @@ position: 21
 category: Managing time
 ---
 
-Context switching is very expensive and disruptive for engineers.  There are two main types of context switching an engineer experiences regularly: **interruptions and calendar fragmentation**.  Interruptions are typically unplanned or unexpected triggers that cause an engineer to turn their attention to another task which breaks their flow. Calendar fragmentation is when the required scheduled activities an engineer needs to attend are not organized efficiently on their calendar.   There are many sources of interruptions and calendar fragmentation that engineers deal with on a regular basis.
+Context switching is very expensive and disruptive for engineers.  There are two main types of context switching an engineer experiences regularly: **interruptions and calendar fragmentation**.  
+
+Interruptions are typically unplanned or unexpected triggers that cause an engineer to turn their attention to another task which breaks their flow. 
+
+Calendar fragmentation is when the required scheduled activities an engineer needs to attend are not organized efficiently on their calendar.   
+
+There are many sources of interruptions and calendar fragmentation that engineers deal with on a regular basis.
 
 ## Interruptions
 - **Pages**:  Incidents can happen at any time and require team members to step in. Even false alerts can distract them from the task that they were doing. 
