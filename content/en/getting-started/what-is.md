@@ -18,7 +18,7 @@ For example, the idea of measuring lines of code as a productivity proxy has lon
 - **Computer science relies on symbolic representations.** The number of symbols used to describe a complex algorithm bears little correlation to the value it creates. 
 - **Software engineering is a social activity** involving many engineers and teams. Human beings don’t like being measured as if they were widgets in a factory, and employers are not in a position to ignore these feelings because of the general penury of software engineers. 
 
-As former engineers ourselves, we also think it is ethically wrong to try and measure the output of engineers in this way.   
+As former engineers ourselves, we also think it is counter-productive to try and measure the output of engineers in this way.   
 
 ## Focusing on inputs
 This difficulty has led some engineering leaders to give up on trying to understand productivity: 
@@ -28,12 +28,24 @@ This difficulty has led some engineering leaders to give up on trying to underst
 
 The unfortunate consequence is that such organizations unfairly reward story-telling: missing deadlines or moving more slowly than the competition can always be explained away. As a result, the organization becomes more political and the best employees leave for greener pastures.
 
-**This handbook instead focuses on the other side of the productivity equation: inputs.** Taking into account the realities of software development, we define inputs as anything that affects the workflows of engineers: how much available time do individuals have to think and code? How good is the suite of developer tools? How long does it take to get code reviewed by a peer? 
+**This handbook instead focuses on the other side of the productivity equation: inputs.** Taking into account the realities of software development, we define inputs as anything that affects the workflows of engineers:
+* How much available time do individuals have to think and code? 
+* How good is the suite of developer tools? 
+* How long does it take to get code reviewed by a peer? 
+* How easy is it to access documentation?
+* How often do engineers receive pages outside of business hours, interrupting their sleep or family life?
 
-For more examples, take a closer look at the myriad of developer tools that appeared in the last 10 years: almost all of them are addressing the problem of making inputs faster, cheaper, etc.
+In software engineering, inputs are easier to measure and more actionable than outputs - they should be the focus of productivity. To further illustrate this point, let's look at side-by-side examples:
 
-In the rest of this handbook, we will thus define engineering effectiveness as:
-> the removal of bottlenecks and inefficiencies in the life of an engineering team. 
+|Measure ... (INPUT METRIC)|Don't measure ... (OUTPUT METRIC)|
+|--|--|
+|The time it takes to do code reviews|The throughput of pull requests|
+|The amount of interruptions affecting engineers|How many hours engineers have been working|
+|The amount of unplanned work affecting a sprint|Sprint points burned by the team|
+
+
+
+In the rest of this handbook, we will thus define engineering effectiveness as **the optimization of inputs, ie the removal of bottlenecks and inefficiencies in the life of an engineering team.**
 
 For simplicity, we will also use the words productivity and effectiveness interchangeably.
 

@@ -13,9 +13,6 @@ In most companies, the process goes like this:
 - this exchange may go back and forth, until reviewers approve the change.
 - the code is then checked into the main line.
 
-<high-level metric: review time>
-
-
 ## Common sources of lengthy code reviews
 
 - **Too many reviewers / diffuse ownership**: this situation happens when there are more than 2 or 3 reviewers assigned on a pull request, potentially through automated systems like automated “code ownership” with collective assignment. As a result, nobody really feels responsible for completing the review and the author waits for too long. A key metric to monitor for this case is the time it takes to do the first action on a review, from the point of view of the author.
