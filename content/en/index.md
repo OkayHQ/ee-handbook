@@ -10,7 +10,7 @@ After talking to hundreds of engineering leaders, we know 2 things:
 * the vast majority of engineering teams want to become more effective
 * but not everyone knows where to start
 
-This handbook intends to fill that gap. Our goal is to build the **first practical and actionable guide to engineering effectiveness**.
+This handbook intends to fill that gap. Our goal is to build the **first practical and actionable guide to engineering effectiveness** for engineering leaders.
 
 We decided to give this work to the community under CC-BY-SA and we welcome contributions, which you can provide in three main ways:
 * adding links to our [curated list of engineering effectiveness resources](resources)

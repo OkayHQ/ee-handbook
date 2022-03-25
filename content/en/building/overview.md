@@ -14,9 +14,6 @@ There is a wealth of information online about the [Software Development Lifecycl
 
 <img src="img/sflc.svg" class="mx-auto" style="min-height: 2rem;"/>
 
-<Insert analogy with factory>
-
-
 ### Existing frameworks: DORA Metrics
 
 In 2016, the State of DevOps report started introducing 4 key metrics - the DORA Metrics, which were initially used to explain the difference in productivity between the hundreds of software organizations studied in the report. To this day, the DORA metrics remain the most researched metrics in this domain. The four metrics are:
