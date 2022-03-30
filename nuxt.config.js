@@ -8,6 +8,9 @@ export default theme({
   build: {
     transpile: [/^vue-github-button/]
   },
+  env: {
+    eventsEndpoint: process.env.EVENTS_ENDPOINT  
+  },
   googleAnalytics: {
     id: process.env.GOOGLE_ANALYTICS_ID
   }
