@@ -130,8 +130,8 @@ export default {
   },
   watch: {
     async $route(to, from) {
-      if (process.env.EVENTS_ENDPOINT) {
-        axios.post(process.env.EVENTS_ENDPOINT, {
+      if (process.env.eventsEndpoint) {
+        axios.post(process.env.eventsEndpoint, {
           event: { page: 'Handbook', entity: `${to.path}`, action: 'Page View' },
           user_agent: navigator.userAgent
         });   
