@@ -117,6 +117,7 @@
 <script>
 import { mapGetters } from 'vuex'
 import GithubButton from 'vue-github-button'
+import axios from 'axios'
 
 export default {
   components: {
@@ -125,6 +126,16 @@ export default {
   data () {
     return {
       scrolled: 0
+    }
+  },
+  watch: {
+    async $route(to, from) {
+      if (process.env.EVENTS_ENDPOINT) {
+        axios.post(process.env.EVENTS_ENDPOINT, {
+          event: { page: 'Handbook', entity: `${to.path}`, action: 'Page View' },
+          user_agent: navigator.userAgent
+        });   
+      }
     }
   },
   computed: {
