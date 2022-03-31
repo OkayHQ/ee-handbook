@@ -5,6 +5,9 @@ export default theme({
   router: {
     base: '/handbook/'
   },
+  i18n: {
+    baseUrl: '/handbook'
+  },
   build: {
     transpile: [/^vue-github-button/]
   },
