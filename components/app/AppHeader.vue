@@ -133,6 +133,7 @@ export default {
       if (process.env.eventsEndpoint) {
         axios.post(process.env.eventsEndpoint, {
           event: { page: 'Handbook', entity: `${to.path}`, action: 'Page View' },
+          event_properties: { path: this.$route.path, url: window.location.href, title: document.title },
           user_agent: navigator.userAgent
         });   
       }
