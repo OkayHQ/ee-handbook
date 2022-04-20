@@ -38,6 +38,7 @@
             exact-active-class="text-primary-500"
           >{{ lastRelease.name }}</NuxtLink>
           <div class="flex items-center">
+            <a href="https://www.okayhq.com/about" class="text-sm mb-1 text-gray-700 dark:text-gray-300 hover:text-primary-500 dark-hover:text-primary-500">About us</a>
             <github-button 
             :class="{
                 'hidden lg:block': settings.layout !== 'single'
