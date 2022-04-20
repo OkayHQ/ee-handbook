@@ -1,10 +1,11 @@
-# 📘 Engineering Effectiveness Handbook
+![Engineering Effectiveness Handbook](https://user-images.githubusercontent.com/57263858/164338623-245760b2-3c80-4d16-84be-576c0a68ea7c.jpeg)
 
 Welcome to the [Engineering Effectiveness Handbook](https://www.okayhq.com/handbook/)! We are the team of [engineering leaders](https://www.okayhq.com/about) behind [Okay](https://www.okayhq.com) and the authors of the first version of this handbook.
 
 After talking to hundreds of engineering leaders, we know 2 things:
 * the vast majority of engineering teams want to become more effective
 * but not everyone knows where to start
+
 
 This handbook intends to fill that gap. Our goal is to build the **first practical and actionable guide to engineering effectiveness**.
 
