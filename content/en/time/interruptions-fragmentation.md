@@ -34,4 +34,4 @@ Carefully minimizing these two types of context switching categories for your te
 |Meeting Time Percentage|What percent of an engineer or team's time is made up of meetings|
 |Interview distribution|How much time is each engineer spending on interviews|
 |After-hour/Working hours Pages|How many pages is the team acting on both during and outside of working hours|
-|Slack support/on-call channel activity|How many requests are comming in on the team's on-call or support channel|
+|Slack support/on-call channel activity|How many requests are coming in on the team's on-call or support channel|
