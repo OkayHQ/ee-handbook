@@ -52,7 +52,7 @@ Deployment is the final part of the development life cycle: shipping features to
 - some companies automate deployments (continuous deployment) while others decide to keep it manual
 - some companies rely on their CI system to deploy while others build custom deployment scripts or use their container orchestration platform 
 
-We recommend building a set of metrics that match your own custom sytem and we'll just cover 2 common signals:
+We recommend building a set of metrics that match your own custom system and we'll just cover 2 common signals:
 
 - **Deployment Frequency**: this DORA metric represents how often your organization successfully ships releases to production. It gives a good high-level indication of the performance of your entire development life cycle. Most engineers also prefer working in environments where code is shipped at least once a day, so this metric impacts retention and hiring. Being an output metric, it is not readily actionable and we'd recommend focusing on long-term trends instead of micro-optimizations.
 - **Lead Time (Merged to Deploy or Main CI to Deploy)**: this represents how long it takes for code to go from one step to another. You can use various definitions of lead time depending on what you are trying to optimize for: the entire CI/CD experience or the speed of deployments. In organizations with a single release train, lead time and deployment frequency are actually closely connected. A typical failure scenario is to build release roadmaps that are based on a *desired or imagined* lead time and deployment frequency, which is why it is particulary important for engineering leaders to fully understand these metics when interacting with their product, sales and other executive counterparts. 
