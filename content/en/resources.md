@@ -5,6 +5,8 @@ position: 50
 category: Going further
 ---
 This is a collection of online and offline resources related to Engineering Effectiveness.
+## Slack Community
+Join our Slack Community about [Engineering Analytics](https://join.slack.com/t/eng-analytics/shared_invite/zt-1i8emziud-nmGDL~h2bNrZMyu9idzqNg)
 ## Articles
 * [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html): an article focused on the notion of developer feedback loops
 * [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124): reference article for the SPACE framework
