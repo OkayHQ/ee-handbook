@@ -5,6 +5,9 @@ export default theme({
   app: {
     baseURL: '/ee-handbook/'
   },
+  router: {
+    base: '/ee-handbook/'
+  },
   build: {
     transpile: [/^vue-github-button/]
   }
