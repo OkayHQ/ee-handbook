@@ -38,7 +38,6 @@
             exact-active-class="text-primary-500"
           >{{ lastRelease.name }}</NuxtLink>
           <div class="flex items-center">
-            <a href="https://join.slack.com/t/eng-analytics/shared_invite/zt-1i8emziud-nmGDL~h2bNrZMyu9idzqNg" class="text-sm mb-1 text-gray-700 dark:text-gray-300 hover:text-primary-500 dark-hover:text-primary-500">Join our Slack</a>
             <github-button 
             :class="{
                 'hidden lg:block': settings.layout !== 'single'
@@ -50,21 +49,6 @@
             aria-label="Star OkayHQ/ee-handbook on GitHub">
               Star
             </github-button>
-
-            <a
-              v-if="settings.twitter"
-              :href="`https://twitter.com/${settings.twitter}`"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="Twitter"
-              name="Twitter"
-              class="text-gray-700 dark:text-gray-300 hover:text-primary-500 dark-hover:text-primary-500 ml-4 mb-1"
-              :class="{
-                'hidden lg:block': settings.layout !== 'single'
-              }"
-            >
-              <IconTwitter class="w-5 h-5" />
-            </a>
 
             <button
               v-if="settings.layout !== 'single'"
@@ -127,17 +111,6 @@ export default {
   data () {
     return {
       scrolled: 0
-    }
-  },
-  watch: {
-    async $route(to, from) {
-      if (process.env.eventsEndpoint) {
-        axios.post(process.env.eventsEndpoint, {
-          event: { page: 'Handbook', entity: `${to.path}`, action: 'Page View' },
-          event_properties: { path: this.$route.path, url: window.location.href, title: document.title },
-          user_agent: navigator.userAgent
-        });   
-      }
     }
   },
   computed: {
